@@ -1,6 +1,6 @@
 # bytebank
 
-A new Flutter project.
+App created based on Alura Course (Flutter)
 
 ## Getting Started
 
